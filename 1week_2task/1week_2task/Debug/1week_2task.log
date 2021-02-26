@@ -1,0 +1,5 @@
+﻿  1week_2task.cpp
+D:\DLYA_AIP\1week_2task\1week_2task\1week_2task.cpp(21,16): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\DLYA_AIP\1week_2task\1week_2task\1week_2task.cpp(23,10): warning C4834: отмена возвращаемого значения функции с атрибутом "nodiscard"
+D:\DLYA_AIP\1week_2task\1week_2task\1week_2task.cpp(20,27): warning C4390: ";": обнаружен пустой контролируемый оператор; это правильно?
+  1week_2task.vcxproj -> D:\DLYA_AIP\1week_2task\Debug\1week_2task.exe
