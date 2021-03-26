@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\DLYA_AIP\3week_8task\3week_8task\Source.cpp(14,32): warning C4305: инициализация: усечение из "double" в "float"
+  3week_8task.vcxproj -> D:\DLYA_AIP\3week_8task\Debug\3week_8task.exe
